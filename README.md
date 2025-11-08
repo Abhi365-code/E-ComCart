@@ -55,6 +55,8 @@ POST	   /api/checkout	        checkout + clear cart + return JSON Receipt
 MongoDB Community Server installed normally on Windows.
 No remote Atlas needed.
 
+#Recorded video link here
+
 ## Screenshots
 
 ### Products Page
