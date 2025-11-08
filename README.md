@@ -56,7 +56,7 @@ MongoDB Community Server installed normally on Windows.
 No remote Atlas needed.
 
 #Recorded video link here
-
+Watch here: [Loom Video Demo](https://www.loom.com/share/e046f6baaef84f16b8484e64a92a6b61).
 ## Screenshots
 
 ### Products Page
